@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Tenny AB',
+	'bransch'        => 'Möbelsnickare',
 	'telefon'        => '072-361 96 69',
 	'telefon_tel'    => '+46723619669',
 	'ort'            => 'Göteborg',
